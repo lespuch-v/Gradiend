@@ -7,6 +7,7 @@ const split = document.getElementById("split")
 const btn_surprise = document.getElementById("surprise")
 const btn_width = document.getElementById("Width")
 
+
 let inputValue = 50
 
 
